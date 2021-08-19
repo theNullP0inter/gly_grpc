@@ -1,4 +1,4 @@
-module github.com/theNullP0inter/googly-contrib-grpc
+module github.com/theNullP0inter/gly_grpc
 
 go 1.13
 
