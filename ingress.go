@@ -12,7 +12,7 @@ import (
 
 // GrpcIngressConnector acts connector between GrpcIngress and your application
 //
-// GrpcIngressInterface implements this
+// GrpcIngressInterface implements this interface
 type GrpcIngressConnector interface {
 	Connect(*grpc.Server)
 }
